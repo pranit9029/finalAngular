@@ -1,0 +1,25 @@
+th,td{
+    text-align: center;
+}
+th{
+    background-color:#293956;
+    color: white;
+}
+.tbl1
+{
+    width: 400px;
+}
+.tbl2
+{
+    width: 200pxx;
+}   
+.featured-cls{
+    background-color: rgb(231, 221, 221);
+}
+
+.thead-bg{
+    background-color: rgb(20, 19, 19);
+}
+.thead-fg{
+    color: white
+}
